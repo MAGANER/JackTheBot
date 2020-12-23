@@ -1,1 +1,0 @@
-worker: python Jack.py
